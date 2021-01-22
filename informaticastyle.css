@@ -1,0 +1,95 @@
+h1 {
+	color: black;
+	font-size: 120px;
+	text-align: center;
+}
+
+img{ 
+	height: 400px;
+	width:  680px;
+	border:  solid; 
+	border-color: black;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: black;
+}
+
+
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 20px 22px;
+  text-decoration: none;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+body {
+  background-color: powderblue;
+}
+
+#evvimg{ 
+	height: 140px;
+	width:  160px;
+	float:  right;
+	border:  solid; 
+	border-color: black;
+}
+
+#overimg{
+	height: 28px;
+	width:  30px;
+	float:  left;
+}
+#overimg1{
+	height: 28px;
+	width:  30px;
+	float:  left;
+}
+#overimg2{
+	height: 28px;
+	width:  30px;
+	float:  left;
+}
+#overimg3{
+	height: 28px;
+	width:  30px;
+	float:  left;
+}
+
+
+.evsfooter{
+	font-size: 12px;
+	text-decoration: underline;
+}
+
+#evsh1{
+	color: black;
+	font-size: 60px;
+	text-align: center;
+	font-style: italic;
+	
+} 
+
+
+.wwform{
+  text-align: center;
+}
+
+h3{
+	color:black;
+	font-size: 20px;
+}
+
+ul{
+	list-style-type: circle;
+}
+
+
